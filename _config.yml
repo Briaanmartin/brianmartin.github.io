@@ -1,5 +1,5 @@
 title: Brian Martin
-logo: /Aset/Foto Brian.jpg/
-#description: text below image
+![Example Image](Aset/Foto Brian.jpg)
+
 #show_downloads: true
 theme: jekyll-theme-minimal
