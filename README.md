@@ -1,6 +1,6 @@
 # Conservationist
 
-#### Technical Skills: Camera Trap, Biodiversity Management, Wildlife Rescue and Evacuation
+#### Technical Skills: Camera Trap, Biodiversity Management, Wildlife Rescue, Spatial Analysis
 
 ## Education					       		
 - Candidate of M.For., Forestry| The University of Mulawarman	        		
@@ -55,13 +55,16 @@ Using Maximum Entropy modeling, this study predicts potential habitat for the Si
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Skills 
-- Biodiversity assesment
+- Biodiversity assessment
 - Wildlife rescue and evacuation
 - Wildlife Data Management
 - Camera Trap
 - Forest Rehabilitation and Restoration
-- RSPO Assesment
+- RSPO Assessment
 - HCV Management
+- Drone Survey
+- GIS/ Remotesensing
+- Spatial Analysis
 
 
 ## Publications
