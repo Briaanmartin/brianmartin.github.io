@@ -1,6 +1,6 @@
-# Data Scientist
+# Conservationist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Camera Trap, Biodiversity Management, Wildlife Rescue and Evacuation
 
 ## Education					       		
 - Candidate of M.For., Forestry| The University of Mulawarman	        		
